@@ -7,9 +7,7 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nushell/nushell)](https://github.com/nushell/nushell/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/nushell/nushell)](https://github.com/nushell/nushell/graphs/contributors)
 
-A new type of shell.
-
-![Example of nushell](assets/nushell-autocomplete6.gif "Example of nushell")
+A new type of shell
 
 ## Table of Contents <!-- omit in toc -->
 
